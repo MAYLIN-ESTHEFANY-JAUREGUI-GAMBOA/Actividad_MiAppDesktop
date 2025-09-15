@@ -177,12 +177,6 @@ María López,maria@correo.com,Estudiante
 ![Validaciones](screenshots/validaciones.png)
 *Mensajes de error amigables para validación de campos*
 
-> **Nota**: Para agregar las capturas de pantalla:
-> 1. Crear carpeta `screenshots/` en la raíz del proyecto
-> 2. Tomar capturas de la aplicación funcionando
-> 3. Guardar con los nombres indicados arriba
-> 4. Las imágenes se mostrarán automáticamente en el README
-
 ## 🚀 Compilación y Ejecución
 
 **Requisitos**: Maven y Java 17+
@@ -206,3 +200,4 @@ java -cp target/classes vallegrande.edu.pe.App
 - ✅ **Persistencia Automática**: Guardado y carga automática en CSV
 - ✅ **Interfaz Moderna**: Diseño profesional con FlatLaf Dark
 - ✅ **Experiencia de Usuario**: Mensajes claros y navegación intuitiva
+
